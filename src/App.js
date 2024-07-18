@@ -4,7 +4,7 @@ import Bg from './components/Bg';
 
 function App() {
   return (
-    <div className=" h-full w-full">
+    <div className=" h-screen w-screen flex flex-col">
 
       <Bg/>
      
